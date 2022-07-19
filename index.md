@@ -2,6 +2,8 @@
 
 I can allegedly use the editor to maintain and preview content but I have no fucking idea how this works and frankly don't have the patience to learn right now. You can use the [editor on GitHub](https://github.com/ewalters34/evanwalters.github.io/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
+The the fuck aren't changes appearing on the actual site tho???
+
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Text 2: The Electric Boogaloo
